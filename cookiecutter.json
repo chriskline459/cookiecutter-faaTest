@@ -1,7 +1,7 @@
 {
   "full_name": "John Doe",
   "faa_email": "johnDoe@faa.gov",
-  "github_username": "audreyr",
+  "github_username": "chriskline459",
   "project_name": "faaTest Project",
   "project_slug": "{{ cookiecutter.project_name.lower().replace(' ', '_').replace('-', '_') }}",
   "project_short_description": "Python cookiecutter package reformatted for use within the FAA.",
